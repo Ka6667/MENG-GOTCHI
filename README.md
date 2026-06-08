@@ -1,10 +1,13 @@
 # MENG-GOTCHI
+<img width="1410" height="2000" alt="Add a heading" src="https://github.com/user-attachments/assets/04ec4ee9-3e5f-48ab-90b2-447582f8bfec" />
 
 ## Table of Content
 * [What is MENG-GOTCHI](#what-is-meng-gotchi)
 * [Why did I build it](#why-did-i-build-it)
 * [How to use MENG-GOTCHI](#how-to-use-meng-gotchi)
-
+* [Schematics](#schematics)
+* [PCB Design](#pcb-design)
+* [3D MODEL](#3d-model)
 ## What is MENG-GOTCHI
 MENG-GOTCHI is my custom digital pet. my custom Tamagotchi-style bunny! She’s super smart and teaches you new English words every day. The catch? You gotta keep her fed, play with her, and sometimes give her some love through the touch sensor when she asks.
 
