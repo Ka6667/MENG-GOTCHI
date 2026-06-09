@@ -12,11 +12,10 @@
 MENG-GOTCHI is my custom digital pet. my custom Tamagotchi-style bunny! She’s super smart and teaches you new English words every day. The catch? You gotta keep her fed, play with her, and sometimes give her some love through the touch sensor when she asks.
 
 ## Why did I build it
-I had a friend who teaches me chinese and she once told me about her owning a dog but her family had to ditch it. She always wanted a pet but her family always refuse that so I decided to make her own pet!!
-She also works as an English tutor and she has an English exam so she always memorize complex English words so I decided to add this feature to make her learn the 45 words that she always forgets.
+I have a friend who teaches me Chinese. She once told me about a dog she used to own, but her family had to give it away. She has always wanted another pet, but her family refuses, so I decided to build one for her! She also works as an English tutor and is currently preparing for an exam that requires her to memorize complex vocabulary. To help her out, I added a feature to the pet to help her practice the 45 words she always forgets!
 
 ## How to use MENG-GOTCHI
-It's so simple to use it. you have three push buttons. The first button (Left button) is used to feed the pet. The second button (Middle button) is used to play with her. the third button (right button) is used to make the pet sleep!  If you made a long press on the left button it will start the study mode and it will teach you five english words. There is also a touch sensor you can pet the bunny with it, I am sure she will be so happy about it! 
+It's incredibly simple to use! There are three push buttons: the left button feeds the pet, the middle button plays with her, and the right button puts her to sleep. If you long-press the left button, it activates study mode and reviews five English words with you. It even has a touch sensor so you can actually pet the MENG bunny. I am sure she is going to love it!
 ## Schematics
 <img width="1149" height="739" alt="Screenshot 2026-06-05 234825" src="https://github.com/user-attachments/assets/a5179d2f-bd6f-49b0-a8e0-f4c2d3661343" />
 
