@@ -13,6 +13,7 @@ MENG-GOTCHI is my custom digital pet. my custom Tamagotchi-style bunny! She’s 
 
 ## Why did I build it
 I had a friend who teaches me chinese and she once told me about her owning a dog but her family had to ditch it. She always wanted a pet but her family always refuse that so I decided to make her own pet!!
+She also works as an English tutor and she has an English exam so she always memorize complex English words so I decided to add this feature to make her learn the 45 words that she always forgets.
 
 ## How to use MENG-GOTCHI
 It's so simple to use it. you have three push buttons. The first button (Left button) is used to feed the pet. The second button (Middle button) is used to play with her. the third button (right button) is used to make the pet sleep!  If you made a long press on the left button it will start the study mode and it will teach you five english words. There is also a touch sensor you can pet the bunny with it, I am sure she will be so happy about it! 
